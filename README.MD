@@ -1,1 +1,1 @@
-"praticando de estrutura de dados em Java" 
+Praticando estrutura de dados em Java
